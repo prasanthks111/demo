@@ -1,2 +1,3 @@
 "hi" 
 text for checking the conflict
+master line
