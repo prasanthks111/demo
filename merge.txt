@@ -1,2 +1,2 @@
 "hi" 
-text for checking the conflict
+text for checking the conflict change for checking the conflict
